@@ -61,14 +61,13 @@ Conda users may also need `libgcc`:
 conda install libgcc
 ```
 
-Windows:
+Windows is currently supported only through conda:
 
-Install Build Tools for Microsoft Visual Studio C++
-
-Install poppler through conda:
-```
-conda install poppler
-```
+ - Install the Microsoft Visual C++ Build Tools
+ - Install poppler through conda:
+   ```
+   conda install poppler
+   ```
 
 
 ## Install
